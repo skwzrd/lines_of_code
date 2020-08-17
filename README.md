@@ -4,6 +4,8 @@
 
 A simple script to count the lines of code in a given directory.
 
+Note that `loc` refers to lines which are not purely whitespace. `loc` and `blank` are separate sets of lines.
+
 ### Configs
 
 - `root` the root directory that you want searched.
